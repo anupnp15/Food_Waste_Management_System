@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Food Aid
 
 A web application which allows users to manage their food donation and collection activities.  
@@ -122,3 +123,7 @@ For running the application:
 
 - Email: aayush5521186@gmail.com
 - Linkedin: https://www.linkedin.com/in/aayush12/
+=======
+# Food_Waste_Management_System
+A web application which allows users to manage their food donation and collection activities.
+>>>>>>> d71669a18f41874a9d2181dc996d4e63684db934
